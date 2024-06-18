@@ -18,7 +18,7 @@ const HeaderComponent=()=>
         {heading}
         {console.log("This is power of JSX")}
         <h1>Namaste React Functional Component</h1>
-        <h2>This is react</h2>
+        <h2>This is react alright</h2>
         </div>); //functional component is a fucntion
 
 //-Class based component -Old
